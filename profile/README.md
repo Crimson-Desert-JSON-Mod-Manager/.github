@@ -6,8 +6,8 @@ Crimson Desert Mod Manager is a standalone tool designed to apply byte-level pat
 
 ## 🔗 Latest Release of Crimson Desert Mod Manager
 
-- **💾 Version 5.0.0.5** – *Tool files & folders*  
-  👉 [The Latest Release]()
+- **💾 Version 0.46** – *Tool files & folders*  
+  👉 [The Latest Release](https://github.com/Crimson-Desert-JSON-Mod-Manager/.github/releases)
   
 * **Platform:** Windows
 * **Format:** `.zip` archive
